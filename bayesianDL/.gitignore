@@ -8,5 +8,5 @@ __pycache__/
 __MACOSX
 __pycache__
 
-
+/CDGaussian/
 *.pyc
